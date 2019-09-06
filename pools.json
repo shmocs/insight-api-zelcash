@@ -113,9 +113,18 @@
   },
   {
     "poolName": "EquiHub",
-    "url": "https://zelcash.equihub.pro",
+    "url": "https://zel.equihub.pro",
+    "hex": "457175694875622068747470733a2f2f7a656c2e657175696875622e70726f",
     "searchStrings": [
-      "EquiHub https://zelcash.equihub.pro"
+      "EquiHub https://zel.equihub.pro"
+    ]
+  },
+  {
+    "poolName": "EquiHub SOLO",
+    "url": "https://solo-zel.equihub.pro",
+    "hex": "4571756948756220534f4c4f2068747470733a2f2f736f6c6f2d7a656c2e657175696875622e70726f",
+    "searchStrings": [
+      "EquiHub SOLO https://solo-zel.equihub.pro"
     ]
   }
 ]
